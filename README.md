@@ -1,5 +1,4 @@
 # ML2S-SVM
-# ML2S-SVM
 Multi-label Least-Squares Support Vector Machines
 
 1. Introduction
