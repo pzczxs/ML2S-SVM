@@ -54,8 +54,6 @@ matlab> [predict_lbl]= ML2SSVMPredict(test_inst, train_inst, train_lbl, alpha, b
     The instance matrix used for training.  
   -train_lbl:
     The label vector used for training. 
-  -training_instance_matrix: 
-    The instance matrix used for training. 
   -alpha:
     The output of ML2SVMTrain.
   -b: 
