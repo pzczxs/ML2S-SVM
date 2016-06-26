@@ -96,4 +96,4 @@ For any question, please contact XU, Shuo <xush@istic.ac.cn> OR <pzczxs@gmail.co
 ===========
 [1] Shuo Xu, Xin An, Xiaodong Qiao, and Lijun Zhu, 2014. Multi-Task Least-Squares Support Vector Machines. Multimedia Tools and Applications, Vol. 71, No. 2, pp. 699-715. DOI: http://doi.org/10.1007/s11042-013-1526-5.  
 
-[2] Shuo Xu, 2016. Multi-Label Least-Squares Support Vector Machines for Multi-Label Classification. Jounal of Information Science and Engineering. (under review)
+[2] Shuo Xu, 2016. Multi-Label Least-Squares Support Vector Machines for Multi-Label Classification. 
