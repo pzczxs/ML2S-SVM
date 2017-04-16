@@ -2,7 +2,6 @@
 Multi-label Least-Squares Support Vector Machines
 
 1. Introduction
-===========
 
 1.1. Description
 ===========
