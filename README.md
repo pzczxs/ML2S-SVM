@@ -80,7 +80,7 @@ matlab> [gamma_best, lambda_best, p_best, loss_best] = GridML2SSVM(train_inst, t
 
 This toolbox is written by XU, Shuo from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite MLS-SVR as follows:
 
-Shuo Xu, 2016. Multi-Label Least-Squares Support Vector Machines for Multi-Label Classification. Jounal of Information Science and Engineering. (under review)
+Shuo Xu, 2016. Multi-Label Least-Squares Support Vector Machines for Multi-Label Classification. (under review)
 
 For any question, please contact XU, Shuo <xushuo@bjut.edu.cn> OR <pzczxs@gmail.com>.
 
