@@ -73,7 +73,7 @@ In order to select proper parameters with 10-fold cross validation, you can use 
 
 ```
 matlab> load scene
-matlab> [gamma_best, lambda_best, p_best, loss_best] = GridML2SSVM(train_inst, train_lbl, 10, 0, 0, 0, inf); 
+matlab> [gamma_best, mu_best, p_best, loss_best] = GridML2SSVM(train_inst, train_lbl, 10, 0, 0, 0, inf); 
 ```
 
 ### 2.3. Additional Information
