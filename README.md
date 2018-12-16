@@ -27,7 +27,7 @@ You should have received a copy of the GNU General Public License along with MLS
 ```
 matlab> [alpha, b] = ML2SVMTrain(train_inst, train_lbl, gamma, mu, p);
   -train_inst:
-    An n by d matrix of d training instances with d features.
+    An n by d matrix of n training instances with d features.
     It should be dense (type must be double).
   -train_lbl:
     An n by 1 vector of training labels (type must be cell of double).
