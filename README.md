@@ -78,13 +78,13 @@ matlab> [gamma_best, mu_best, p_best, loss_best] = GridML2SSVM(train_inst, train
 
 ### 2.3. Additional Information
 
-This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite MLS-SVR as follows:
+This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite ML2S-SVM as follows:
 
-Shuo Xu and Xin An. Multi-Label Least-Squares Support Vector Machines for Multi-Label Classification. (under review)
+Shuo Xu and Xin An, 2019. [ML2S-SVM: Multi-Label Least-Squares Support Vector Machines Classifiers](https://dx.doi.org/10.1108/EL-09-2019-0207). *The Electronic Library*, Vol. 37, No. 6, pp. 1040-1058. 
 
 For any question, please contact XU, Shuo at <xushuo@bjut.edu.cn> OR <pzczxs@gmail.com>.
 
 ## 3. References
 [1] Shuo Xu, Xin An, Xiaodong Qiao, and Lijun Zhu, 2014. [Multi-Task Least-Squares Support Vector Machines](http://doi.org/10.1007/s11042-013-1526-5). *Multimedia Tools and Applications*, Vol. 71, No. 2, pp. 699-715.   
 
-[2] Shuo Xu and Xin An. [ML2S-SVM: Multi-Label Least-Squares Support Vector Machines Classifiers](https://dx.doi.org/10.1108/EL-09-2019-0207). *The Electronic Library*, Vol. 37, No. 6, pp. 1040-1058. 
+[2] Shuo Xu and Xin An, 2019. [ML2S-SVM: Multi-Label Least-Squares Support Vector Machines Classifiers](https://dx.doi.org/10.1108/EL-09-2019-0207). *The Electronic Library*, Vol. 37, No. 6, pp. 1040-1058. 
